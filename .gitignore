@@ -3,3 +3,7 @@ build/
 *.iml
 out/
 .idea/
+bin/
+*.classpath
+*.project
+*.settings
